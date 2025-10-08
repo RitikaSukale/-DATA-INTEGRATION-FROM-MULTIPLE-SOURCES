@@ -103,4 +103,4 @@ The Travel & Tourism Insights Dashboard serves as an effective analytical tool f
 Future enhancements may include the integration of real-time APIs for live booking updates and predictive analytics for demand forecasting. Overall, this project demonstrates the power of Power BI in transforming raw data into actionable insights for the tourism industry.
 
 OUTPUT:
-
+<img width="1328" height="749" alt="Image" src="https://github.com/user-attachments/assets/f8b143b1-3182-4846-8cc5-02525130b166" />
